@@ -1,3 +1,0 @@
-//#define SYSCLK_FREQ_HSE
-//#define SYSCLK_FREQ_144MHz  144000000
-//#define SYSCLK_FREQ_HSE
