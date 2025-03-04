@@ -157,15 +157,15 @@ void lcd_init() {
     LCD_RES_Set();
     Delay_Ms(10);
 
-    lcd_register(0x11);		// sleep out
+    lcd_register(0x11);	// sleep out
     Delay_Ms(5);
 
-    lcd_register(0x36);		// madctl
+    lcd_register(0x36);	// madctl
     lcd_byte(0xc8);
-    lcd_register(0x3a);		// colmod
-    lcd_byte(0x05);		// rgb565
+    lcd_register(0x3a);	// colmod
+    lcd_byte(0x05); // rgb565
 
-    lcd_register(0x21);		// invert
+    lcd_register(0x21);	// invert
 
-    lcd_register(0x29);		// on
+    lcd_register(0x29);	// on
 }
