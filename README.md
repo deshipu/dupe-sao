@@ -5,7 +5,7 @@ using a SAO connector. This one is shaped like a duplicant from the Klei
 game Oxygen Not Included. The round helmet is a display, that shows the
 face of the duplicant from the game, moving slightly and blinking.
 
-[Duplicant SAO](images/IMG_20260325_135351_small.jpg)
+![Duplicant SAO](images/IMG_20260325_135351_small.jpg)
 
 There are currently two versions: v1 for the 12-pin 0.99" round display with
 a long ribbon cable (GC0907), and v2 for the 8-pin version of the same display,
